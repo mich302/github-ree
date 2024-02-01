@@ -25,7 +25,7 @@ public class AmazonAddToCart {
     int i,j;
     int col,row;
     public String ReadData(String rowData,String colData){
-        String fileLocation="./src./test./resources/content.xlsx";
+        String fileLocation="./src./test./resources/testdata.xlsx";
         logger.info("Reading data from excel");
         try( XSSFWorkbook wb=new XSSFWorkbook(fileLocation))
         {
