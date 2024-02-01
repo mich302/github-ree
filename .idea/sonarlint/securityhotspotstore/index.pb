@@ -7,3 +7,6 @@
 +src/test/java/com/sample/files/GitTest.java,9\9\99a2978c2bf4bf8973d7242a7e6bb640a0be1e88
 c
 3src/test/java/com/sample/files/AmazonAddToCart.java,c\f\cf40061bb98a6b8ded195945a15d1eff27718dd9
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
